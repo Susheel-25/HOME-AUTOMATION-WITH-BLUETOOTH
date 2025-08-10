@@ -52,7 +52,7 @@ In **Tinkercad**, Bluetooth modules (like HC-05) are not available, so the **Ser
 ## ▶ How to Run in Tinkercad
 1. Open the project in [Tinkercad](https://www.tinkercad.com/).
 2. Connect LEDs to pins **8** & **7** with resistors to GND.
-3. Upload the Arduino code from [`bluetooth_home_automation.ino`](bluetooth_home_automation.ino).
+3. Upload the Arduino code
 4. Open **Serial Monitor** and send:
    - `ON1` → Turn ON LED 1  
    - `OFF1` → Turn OFF LED 1  
