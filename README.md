@@ -70,3 +70,4 @@ In **Tinkercad**, Bluetooth modules (like HC-05) are not available, so the **Ser
   - GND → GND
 - Use any Bluetooth Terminal app on your phone to send the same commands.
 ## 📷 Output Preview:
+<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/96e1eb24-2e63-49d5-9716-06767807ca9a" />
