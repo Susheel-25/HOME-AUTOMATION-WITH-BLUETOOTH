@@ -36,10 +36,7 @@ In **Tinkercad**, Bluetooth modules (like HC-05) are not available, so the **Ser
 ---
 
 ## 🛠 Circuit Diagram
-Below is the Tinkercad circuit design used in this project:  
-
-![Circuit Diagram](circuit_diagram.png)  
-*(In your GitHub repo, replace `circuit_diagram.png` with the uploaded image file.)*
+![Image](https://github.com/user-attachments/assets/f5455e2b-e730-4037-922c-2d6bb109ce02)
 
 ---
 
@@ -72,3 +69,4 @@ Below is the Tinkercad circuit design used in this project:
   - VCC → 5V
   - GND → GND
 - Use any Bluetooth Terminal app on your phone to send the same commands.
+## 📷 Output Preview:
