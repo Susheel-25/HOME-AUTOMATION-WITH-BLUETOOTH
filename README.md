@@ -12,7 +12,8 @@
 
 **DESCRIPTION:**
 
-📌 Task 2: Bluetooth-Controlled Home Automation System 
+## 📌 Task 2: Bluetooth-Controlled Home Automation System 
+
 This project demonstrates a **Bluetooth-controlled home automation system** using **Arduino UNO**.  
 In **Tinkercad**, Bluetooth modules (like HC-05) are not available, so the **Serial Monitor** is used to simulate Bluetooth communication.
 
